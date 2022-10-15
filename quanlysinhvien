@@ -158,7 +158,7 @@ int main(){
     cout<<"     ** 5.Kiem tra ton tai Sinh vien.      ** "<<endl;
     cout<<"     ** 6.Tim Sinh Vien (theo Maso).       ** "<<endl;
     cout<<"     ** 7.Xoa 1 Sinh vien (theo Maso).     ** "<<endl;
-    //cout<<"     ** 8.Tong Sinh Vien theo Xep Loai.    ** "<<endl;
+    //cout<<"   ** 8.Tong Sinh Vien theo Xep Loai.    ** "<<endl;
     cout<<"     ======================================== "<<endl;
     do{
 	cout<<" Your choose is(Nhap '0' se thoat): ";
